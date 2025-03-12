@@ -4,13 +4,13 @@ importScripts("https://www.gstatic.com/firebasejs/8.8.0/firebase-app.js");
 importScripts("https://www.gstatic.com/firebasejs/8.8.0/firebase-messaging.js");
 
 const firebaseConfig = {
-  apiKey: "your_keys",
-  authDomain: "your_keys",
-  projectId: "your_keys",
-  storageBucket: "your_keys",
-  messagingSenderId: "your_keys",
-  appId: "your_keys",
-  measurementId: "your_keys",
+  apiKey: "AIzaSyAGn5FGNu5vV8yTc_sMgp61wK86gtQXRTc",
+  authDomain: "smarts-next-pwa.firebaseapp.co",
+  projectId: "smarts-next-pwa",
+  storageBucket: "smarts-next-pwa.firebasestorage.app",
+  messagingSenderId: "545017091933",
+  appId: "1:545017091933:web:6ec64e6cf90f7853e7bab4",
+  measurementId: "G-NNJ214WV5M",
 };
 // eslint-disable-next-line no-undef
 firebase.initializeApp(firebaseConfig);
